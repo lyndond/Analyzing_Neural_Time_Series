@@ -56,5 +56,31 @@ docs/_build/
 # PyBuilder
 target/
 
+
+# ipython gitignore
+
 #ipynb checkpoints
 .ipynb_checkpoints/
+
+*.pyc
+
+# This is downloaded by NYPD-Crash.ipynb
+collisions.csv.gz
+
+# Images for various apps, starting with Office.ipynb
+img
+
+# Store private keys in secret files
+secret*
+
+# Ignore sample data files created
+sample.*
+
+# Text-analysis.ipynb uses tweets.json.gz
+tweets.json.gz
+
+# IMDb.ipynb movie data
+*.list.gz
+
+# Any slideshows or HTML output created is ignored
+*.html
