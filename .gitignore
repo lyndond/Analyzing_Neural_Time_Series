@@ -84,3 +84,8 @@ tweets.json.gz
 
 # Any slideshows or HTML output created is ignored
 *.html
+
+*.idea
+
+matlab/
+.DS_Store
