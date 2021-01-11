@@ -17,7 +17,7 @@ TODO:
     [x] Chapter 10 cleanup
     [x] Chapter 11 cleanup
     [x] Chapter 12 cleanup
-    [ ] Chapter 13 cleanup
+    [x] Chapter 13 cleanup
     [ ] Chapter 14 cleanup
     [ ] Chapter 15 cleanup
     [ ] Chapter 16 cleanup
