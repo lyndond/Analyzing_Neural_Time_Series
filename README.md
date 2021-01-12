@@ -22,7 +22,7 @@ TODO:
     [x] Chapter 15 cleanup
     [x] Chapter 16 cleanup
     [x] Chapter 17 cleanup
-    [ ] Chapter 18 cleanup
+    [x] Chapter 18 cleanup
     [ ] Chapter 19 
     [ ] Chapter 20 
     [ ] Chapter 21 
