@@ -2,7 +2,7 @@
 
 Update Jan 2021: I'm going to clean existing files, update to python3, and finish the rest of the chapters whenever I 
 have some time. 
-Requires: Python >= 3.6, numpy >=1.15, scipy >= 1.5, matplotlib >= 3.2
+Requires: Python >= 3.6, numpy >=1.15, scipy >= 1.5, matplotlib >= 3.2, scikit-image >= 0.17
 
 Python (Jupyter notebook) implementations of Analyzing Neural Time Series (2014).
 
@@ -39,7 +39,7 @@ TODO:
     [ ] Chapter 30 
     [ ] Chapter 31 
     [ ] Chapter 32 
-    [ ] Chapter 33 
+    [x] Chapter 33 
     [ ] Chapter 34 
     [ ] Chapter 35 
     [ ] Chapter 36 
