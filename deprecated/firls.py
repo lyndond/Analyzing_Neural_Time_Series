@@ -8,9 +8,6 @@ from numpy import nonzero, sign, mat, sin, cos, exp, zeros, log10, unique, fix, 
 from numpy import ones, prod, pi, NaN, zeros_like, ravel, any, linspace, diff
 from numpy import kron
 from numpy.linalg import inv
-from numpy.fft import fft, ifft
-from scipy.signal import convolve, freqz , zpk2tf, tf2zpk, remez, get_window
-from scipy.interpolate import interp1d
 from scipy.linalg import toeplitz, hankel
 
 def firls(m, bands, desired, weight=None):
@@ -40,11 +37,11 @@ def firls(m, bands, desired, weight=None):
     Note : This function is modified from signal package for octave 
     (http://octave.sourceforge.net/signal/index.html)
     """
-    if weight==None : weight = ones(len(bands)/2)
+    if weight==None : weight = ones(len(bands)//2)
 
     bands, desired, weight = array(bands), array(desired), array(weight)
     
-    M = m/2;
+    M = m//2;
     w = kron(weight, [-1,1])
     omega = bands * pi
     i1 = arange(1,M+1)
