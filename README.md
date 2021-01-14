@@ -26,7 +26,7 @@ TODO:
     [x] Chapter 17 cleanup
     [x] Chapter 18 cleanup
     [ ] Chapter 19 
-    [ ] Chapter 20 
+    [x] Chapter 20 
     [x] Chapter 21 [no figs]
     [ ] Chapter 22 
     [ ] Chapter 23 
