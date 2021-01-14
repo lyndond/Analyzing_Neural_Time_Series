@@ -29,8 +29,8 @@ TODO:
     [x] Chapter 20 
     [x] Chapter 21 [no figs]
     [ ] Chapter 22 
-    [ ] Chapter 23 
-    [ ] Chapter 24 
+    [!] Chapter 23 [done all except topoplots]
+    [x] Chapter 24 [no figs]
     [x] Chapter 25 
     [ ] Chapter 26 
     [ ] Chapter 27 
