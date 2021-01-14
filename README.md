@@ -6,7 +6,7 @@ Requires: Python >= 3.6, numpy >=1.15, scipy >= 1.5, matplotlib >= 3.2, scikit-i
 
 Python (Jupyter notebook) implementations of Analyzing Neural Time Series (2012).
 
-Analyzing Neural Time Series by Mike Cohen (2014) is a great book written for neuroscientists working with continuous neural data. 
+Analyzing Neural Time Series by Mike Cohen is a great book written for neuroscientists working with continuous neural data. 
 Although it may seem like the book is mainly written for EEG analysis, I found that the topics in the book are easily translatable to any domain requiring continuous-data signal processing.
 Each chapter introduces a new technique, with heavy emphasis on concepts rather than mathematical rigor, and even has summaries at the end of each chapter with tips on how to describe the analysis in the methods section of your paper.
 
