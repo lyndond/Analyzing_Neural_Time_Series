@@ -28,18 +28,18 @@ TODO:
     [ ] Chapter 19 
     [x] Chapter 20 
     [x] Chapter 21 [no figs]
-    [ ] Chapter 22 
+    [ ] Chapter 22 [requires external methods + topoplot]
     [!] Chapter 23 [done all except topoplots]
     [x] Chapter 24 [no figs]
     [x] Chapter 25 
     [ ] Chapter 26 
     [ ] Chapter 27 
-    [ ] Chapter 28 
-    [ ] Chapter 29 
+    [ ] Chapter 28 [requires armorf.m]
+    [ ] Chapter 29 [one fig requires topoplot]
     [ ] Chapter 30 
     [ ] Chapter 31 
     [x] Chapter 32 [no figs]
     [x] Chapter 33 
     [ ] Chapter 34 
-    [ ] Chapter 35 
-    [ ] Chapter 36 
+    [x] Chapter 35 [no figs]
+    [x] Chapter 36 [no figs]
