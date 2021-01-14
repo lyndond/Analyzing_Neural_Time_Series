@@ -20,7 +20,7 @@ TODO:
     [x] Chapter 11 cleanup
     [x] Chapter 12 cleanup
     [x] Chapter 13 cleanup
-    [ ] Chapter 14 cleanup [something wrong with firls()]
+    [x] Chapter 14 cleanup
     [x] Chapter 15 cleanup
     [x] Chapter 16 cleanup
     [x] Chapter 17 cleanup
@@ -38,7 +38,7 @@ TODO:
     [ ] Chapter 29 
     [ ] Chapter 30 
     [ ] Chapter 31 
-    [ ] Chapter 32 
+    [x] Chapter 32 [no figs]
     [x] Chapter 33 
     [ ] Chapter 34 
     [ ] Chapter 35 
