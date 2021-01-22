@@ -33,7 +33,7 @@ TODO:
     [x] Chapter 24 [no figs]
     [x] Chapter 25 
     [ ] Chapter 26 
-    [ ] Chapter 27 
+    [x] Chapter 27 
     [ ] Chapter 28 [requires armorf.m]
     [ ] Chapter 29 [one fig requires topoplot]
     [ ] Chapter 30 
