@@ -9,19 +9,15 @@ Python implementation of code in Analyzing Neural Time Series by Mike X. Cohen.
 Cleaning files, and finishing the rest of the chapters whenever I have some time. 
 
 ## Requirements:
-- Python >= 3.6
-- numpy >=1.15
-- scipy >= 1.5
-- matplotlib >= 3.2 
-- scikit-image >= 0.17
-- mne >= 0.23.4
+See `environment.yml`
 
 ## Summary:
 Analyzing Neural Time Series by Mike Cohen is a great book written for neuroscientists working with continuous neural data. 
 Although it may seem like the book is mainly written for EEG analysis, I found that the topics in the book are easily translatable to any domain requiring continuous-data signal processing.
 Each chapter introduces a new technique, with heavy emphasis on concepts rather than mathematical rigor, and even has summaries at the end of each chapter with tips on how to describe the analysis in the methods section of your paper.
                                  
-## TODO:                                 
+## TODO:
+- [ ] change `scipy.io.loadmat` to `mne.externals.pymatreader.read_mat`
 - [x] Chapter 6 cleanup          
 - [x] Chapter 9 cleanup          
 - [x] Chapter 10 cleanup         
@@ -33,7 +29,7 @@ Each chapter introduces a new technique, with heavy emphasis on concepts rather 
 - [x] Chapter 16 cleanup         
 - [x] Chapter 17 cleanup         
 - [x] Chapter 18 cleanup         
-- [ ] Chapter 19                 
+- [ ] Chapter 19 WIP                
 - [x] Chapter 20                 
 - [x] Chapter 21 [no figs]       
 - [ ] Chapter 22 [requires external methods + topoplot]
