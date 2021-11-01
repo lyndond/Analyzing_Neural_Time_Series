@@ -43,7 +43,7 @@ Each chapter introduces a new technique, with heavy emphasis on concepts rather 
 - [ ] Chapter 26                 
 - [x] Chapter 27                 
 - [ ] Chapter 28 [requires arm orf.m]
-- [ ] Chapter 29 [one fig requires topoplot]
+- [x] Chapter 29 [one fig requires topoplot]
 - [ ] Chapter 30                 
 - [ ] Chapter 31                 
 - [x] Chapter 32 [no figs]       
