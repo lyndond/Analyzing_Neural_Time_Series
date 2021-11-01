@@ -37,7 +37,7 @@ Each chapter introduces a new technique, with heavy emphasis on concepts rather 
 - [x] Chapter 20                 
 - [x] Chapter 21 [no figs]       
 - [ ] Chapter 22 [requires external methods + topoplot]
-- [ ] Chapter 23 [done all except topoplots]
+- [ ] Chapter 23 [almost done except 23.4 needs topoplot]
 - [x] Chapter 24 [no figs]       
 - [x] Chapter 25                 
 - [ ] Chapter 26                 
